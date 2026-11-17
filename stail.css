@@ -11,7 +11,9 @@
     padding-top: 100px;
 }
 
-
+.imagen-hover:hover {
+  visibility: hidden;
+}
 
 body {
     background-color: rgb(252, 247, 240);
