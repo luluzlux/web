@@ -1,0 +1,72 @@
+/* esto es para que todas las cajitas se acomoden */
+* {
+    box-sizing: border-box;
+}
+
+.img-espacio-right {
+    margin-right: 100px;
+}
+
+.img-espacio-top {
+    padding-top: 100px;
+}
+
+
+
+body {
+    background-color: rgb(252, 247, 240);
+    font-size: 18px;
+    margin: 30px;
+    padding: 0;
+}
+
+/* los H tienen un tamaño de fuente específico pero puedo como cambiarlos o establecerlos */
+h1 {
+    font-size: 30px;
+    font-family: 'georgia', serif;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+h4 {
+    font-size: 18px;
+}
+
+h5 {
+    font-size: 18px;
+}
+
+h6 {
+    font-size: 16px;
+}
+
+p {
+    font-size: 15px;
+}
+
+body {
+    font-size: 20px;
+}
+
+a:hover {
+ color: #f394c8;
+}
+
+/* Cambia al color que prefieras 
+p:hover {
+  color: #e89b9b; 
+} */
+
+ul {
+    font-size: 12px;
+    font-family: 'courier new', monospace;
+    font-color: #c70202;
+    list-style-type: none;
+    padding: 20;
+}
