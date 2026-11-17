@@ -68,7 +68,7 @@ p:hover {
 ul {
     font-size: 12px;
     font-family: 'courier new', monospace;
-    font-color: #c70202;
+    color: #c70202;
     list-style-type: none;
     padding: 20;
 }
