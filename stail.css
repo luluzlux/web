@@ -35,7 +35,7 @@ nav {
   display: flex;
   justify-content: space-between;
   font-size: 15px;
-  font-family: 'georgia', serif;
+  font-family: sans-serif;
   color: #120d11c6;
   width: 100%;
   position:fixed;
@@ -44,7 +44,7 @@ nav {
 nav a {
   white-space: nowrap;
   text-decoration: none;
-  padding: 0 12px;
+  /* padding: 0 12px; */
   /* border-right: 1px solid #ccc; */
 }
 
@@ -56,14 +56,14 @@ nav a:last-child {
 body {
     background-color: rgb(252, 247, 240);
     font-size: 18px;
-    margin: 30px;
+    margin: 0px;
     padding: 0;
 }
 
 /* los H tienen un tamaño de fuente específico pero puedo como cambiarlos o establecerlos */
 h1 {
     font-size: 30px;
-    font-family: 'georgia', serif;
+    font-family: sans-serif;
 }
 
 h2 {
@@ -98,7 +98,7 @@ p:hover {
 
 ul {
     font-size: 12px;
-    font-family: 'courier new', monospace;
+    font-family: sans-serif;
     color: #c70202;
     list-style-type: none;
     padding: 20;
